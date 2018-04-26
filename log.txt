@@ -1,0 +1,11 @@
+commit 2f73f653748fc81403167a53a12ebe0250f0b47c
+Author: nina.petreska@students.finki.ukim.mk <nina.petreska@students.finki.ukim.mk>
+Date:   Thu Apr 26 17:21:12 2018 +0200
+
+    modify l1.txt
+
+commit c21fca1923ff917a0d8f8cb0df2f144554d744f8
+Author: nina.petreska@students.finki.ukim.mk <nina.petreska@students.finki.ukim.mk>
+Date:   Thu Apr 26 17:18:21 2018 +0200
+
+    Initial commit
