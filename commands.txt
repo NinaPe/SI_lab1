@@ -1,3 +1,4 @@
+mkdir lab1
 cd lab1 
 git init 
 touch l1.txt 
